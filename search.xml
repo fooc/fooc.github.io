@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>try hello</title>
+    <url>/2020/01/21/try-hello/</url>
+    <content><![CDATA[<h3 id="try-the-hexo-site"><a href="#try-the-hexo-site" class="headerlink" title="try the hexo site"></a>try the hexo site</h3><h4 id="subtitle"><a href="#subtitle" class="headerlink" title="subtitle"></a>subtitle</h4>]]></content>
+      <tags>
+        <tag>try</tag>
+        <tag>test</tag>
+        <tag>temp</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>categories</title>
     <url>/2020/01/21/categories/</url>
     <content><![CDATA[]]></content>
